@@ -2,7 +2,7 @@ import json
 import requests
 from http.server import BaseHTTPRequestHandler
 
-TOKEN = "8355016420:AAFnAheJgoKgvQiOQ0J6dGMoIHowVC3mpcU"
+TOKEN = "7955215390:AAHdxrbivykG0G7E2OLtAwRCPZk27dVD68Q"
 API_BASE = "https://encorexapi.vercel.app/vehicletest?vnum="
 
 WEBHOOK_PATH = f"/{TOKEN}"
